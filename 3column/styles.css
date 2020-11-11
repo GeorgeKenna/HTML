@@ -1,0 +1,27 @@
+main{
+    background:whitesmoke;
+    position
+}
+nav{
+    background: #FF2643;
+}
+section{
+    float: left;
+    background-color:#3DE070;
+}
+aside{
+    float:right;
+    background-color: #007BFF;
+}
+article{
+    float:auto;
+    background-color: #FFA1EF;
+}
+footer{
+    float:bottom;
+    background-color: #FFD000;
+}
+img{
+    height:256;
+    width:220.5;
+}
