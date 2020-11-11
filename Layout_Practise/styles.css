@@ -10,12 +10,14 @@ body{
 }
 header{
     background:#ddd;
+    margin: 0%;
 }
 nav{
+    overflow: hidden;
     background:#c99;
 }
 main{
-    float:right;
+    float:left;
     width:322.5;
     background:#27BFE6;
     border-style: solid;
