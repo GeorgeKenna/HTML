@@ -1,0 +1,45 @@
+body{
+    margin:0;
+    padding:0;
+    background:grey;
+}
+#wrap{
+    width:auto;
+    margin:0;
+    background:#99c;
+}
+header{
+    background:#ddd;
+}
+nav{
+    background:#c99;
+}
+main{
+    float:left;
+    width:322.5;
+    background:#27BFE6;
+    border-style: solid;
+}
+aside{
+    float:right;
+    width:250;
+    background:#c9c;
+    border-style: solid;
+}
+footer{
+    clear:both;
+    background:#cc9;
+}
+img{
+    height:190px;
+    width:322.5px;
+}
+a{
+    float:right;
+    width:100;
+    background-color:#6CE6BF;
+    border-style: solid;
+    padding-left: 5;
+    word-wrap: break-normal;
+
+}
