@@ -18,7 +18,7 @@ article{
     background-color: #FFA1EF;
 }
 footer{
-    float:bottom;
+    float:top;
     background-color: #FFD000;
 }
 img{
