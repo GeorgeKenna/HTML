@@ -1,3 +1,6 @@
+* {
+    box-sizing: border-box;
+}
 main{
     background:whitesmoke;
 }
@@ -19,28 +22,32 @@ li a{
     text-decoration: none;
 }
 li a:hover {
-    background-color: #111;
- } 
+  background-color: #111;
+}
+
 section{
     float: left;
     background-color:#3DE070;
-    width: 250px;
+    width: 25%;
     margin: auto;
 }
 aside{
     float:right;
     background-color: #007BFF;
-    width: 450px;
+    width: 25%;
 }
 article{
     background-color: #FFA1EF;
-    margin-left: 250px;
-    margin-right: 450px;
+    float: left;
+}
+article:after{
+    content: "";
+    display: table;
+    clear: both;
 }
 footer{
-    float:top;
     background-color: #FFD000;
-    margin: 0%;
+    clear: both;
 }
 img{
     height:256;
