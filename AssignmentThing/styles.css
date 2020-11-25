@@ -58,8 +58,8 @@ footer{
     clear: both;
 }
 img{
-    height:256;
-    width:220.5;
+    max-height:25%;
+    max-width:25%;
 }
 header{
     text-align: center;
